@@ -1,4 +1,5 @@
 <?php
-	echo "deploy-phpjk";
+	echo "deploy-php";
+	echo "ok";
 
 ?>
