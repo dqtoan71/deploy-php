@@ -1,5 +1,5 @@
 <?php
 	echo "deploy-php";
-	echo "ok";
+	echo "ok to send";
 
 ?>
